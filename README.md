@@ -1,7 +1,17 @@
 # 🏭 Smart Manufacturing Analytics
 
-## Live App
+🚀 Built an end-to-end ML-powered manufacturing analytics system with a live interactive dashboard.
 https://smart-manufacturing-analytics-nn7x5nappf4ri5nbdaskvgt.streamlit.app/
+
+## 👀 What this app does
+- Predicts manufacturing delay probability  
+- Displays key KPIs (Demand, Stock, Lead Time)  
+- Provides insights for operational decisions
+
+## ▶️ How to use
+1. Adjust input parameters  
+2. Run prediction  
+3. Analyze results and insights  
 
 ## 🔍 Problem Statement
 
