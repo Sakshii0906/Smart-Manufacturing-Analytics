@@ -31,7 +31,10 @@ Build a machine learning model to predict production delays and identify key fac
 * Identified major factors contributing to delays
 
 ## 📸 Output Preview
-
+![Dashboard1.png](Dashboard1.png)
+![Dashboard2.png](Dashboard2.png)
+![Insights.png](Insights.png)
+![Model_Info.png](Model_Info.png)
 
 ## 💡 Business Impact
 
