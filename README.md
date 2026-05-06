@@ -1,5 +1,8 @@
 # 🏭 Smart Manufacturing Analytics
 
+## Live App
+https://smart-manufacturing-analytics-nn7x5nappf4ri5nbdaskvgt.streamlit.app/
+
 ## 🔍 Problem Statement
 
 Manufacturing industries often face unexpected delays that impact production efficiency, costs, and delivery timelines.
