@@ -41,6 +41,9 @@ Build a machine learning model to predict production delays and identify key fac
 ### 🔹 Business Insights
 ![Insights](business_insights.png)
 
+### Model Performance
+![Performance].(model_performance.png)
+
 ## 💡 Business Impact
 
 * Helps reduce production delays
